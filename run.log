@@ -1,0 +1,68 @@
+Running charleston_road file
+Columns=240
+Rows=180
+Radius=10
+Budget=29907
+Pb=1
+Pr=100
+end of cycles r/c. budget available:26557next maxcov:411
+end of cycles r/c. budget available:26342next maxcov:381
+end of cycles r/c. budget available:25566next maxcov:351
+end of cycles r/c. budget available:24875next maxcov:321
+end of cycles r/c. budget available:24661next maxcov:291
+end of cycles r/c. budget available:24544next maxcov:261
+end of cycles r/c. budget available:24431next maxcov:231
+end of cycles r/c. budget available:23352next maxcov:201
+end of cycles r/c. budget available:22688next maxcov:171
+end of cycles r/c. budget available:22042next maxcov:141
+end of cycles r/c. budget available:21730next maxcov:111
+end of cycles r/c. budget available:21408next maxcov:81
+end of cycles r/c. budget available:20886next maxcov:51
+end of cycles r/c. budget available:20134next maxcov:21
+end of cycles r/c. budget available:16110next maxcov:1
+score:21952039
+score:21952039
+Running opera file
+Columns=667
+Rows=540
+Radius=7
+Budget=94860
+Pb=1
+Pr=100
+end of cycles r/c. budget available:13196next maxcov:195
+end of cycles r/c. budget available:8350next maxcov:165
+end of cycles r/c. budget available:2118next maxcov:135
+score:161655989
+score:161655989
+Running rue_de_londres file
+Columns=559
+Rows=404
+Radius=10
+Budget=21634
+Pb=1
+Pr=100
+end of cycles r/c. budget available:13244next maxcov:411
+end of cycles r/c. budget available:12343next maxcov:381
+end of cycles r/c. budget available:11591next maxcov:351
+end of cycles r/c. budget available:10883next maxcov:321
+end of cycles r/c. budget available:9676next maxcov:291
+end of cycles r/c. budget available:8577next maxcov:261
+end of cycles r/c. budget available:7493next maxcov:231
+end of cycles r/c. budget available:5491next maxcov:201
+end of cycles r/c. budget available:3560next maxcov:171
+end of cycles r/c. budget available:2245next maxcov:141
+score:51409974
+score:51409974
+Running lets_go_higher file
+Columns=872
+Rows=975
+Radius=5
+Budget=2654677
+Pb=5
+Pr=100
+end of cycles r/c. budget available:2320142next maxcov:91
+end of cycles r/c. budget available:2301722next maxcov:61
+end of cycles r/c. budget available:2278752next maxcov:31
+end of cycles r/c. budget available:2221012next maxcov:1
+score:289785612
+score:289785612

@@ -1,0 +1,10 @@
+This is my solution built during the extended round of the Google HashCode 2017 competition - Final Round
+
+- inputs folder contains the problem statement and the input files (https://hashcode.withgoogle.com/past_editions.html);
+- outputs folder contains the files output of the code to be submitted to get scores (Extended round ended and it's not possible to submit new solutions);
+- maps folder contains a text file for each input with the grid coverage guaranteed by the output file - to see how good I did
+- router.php is the actual file containing the code. 
+
+Remark: This solution brings to 530 mln points while the best result is about 550mln. 
+Remark2: The way how the variable max_coverage is changed deeply influence the time execution.
+Remark3: All files were in a single folder so you have to move *.in files in the same folder as router.php to run the code.
